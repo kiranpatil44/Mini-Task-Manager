@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+#Mini-Task-Manager
+Mini-task-manager for devza front end developer role
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I have finish all tasks and extra requirementa also except drag and drop functionality
 
-## Available Scripts
+npm install will install all the dependancies. npm start will run project on local
 
-In the project directory, you can run:
+project deployed url :
 
